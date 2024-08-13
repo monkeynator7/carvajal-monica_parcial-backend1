@@ -1,0 +1,23 @@
+[2024-08-13 00:21:05] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:22:02] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:25:17] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:25:33] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:29:01] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:33:40] [ INFO ] [DaoEnMemoria:16] Odontologo guardado en memoria: Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}
+[2024-08-13 00:33:40] [ INFO ] [DaoEnMemoria:16] Odontologo guardado en memoria: Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}
+[2024-08-13 00:33:40] [ INFO ] [DaoEnMemoria:16] Odontologo guardado en memoria: Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}
+[2024-08-13 00:33:40] [ INFO ] [DaoEnMemoria:22] Odontologos encontrados en memoria: [Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}, Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}, Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}]
+[2024-08-13 00:33:40] [ INFO ] [DaoEnMemoria:22] Odontologos encontrados en memoria: [Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}, Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}, Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}]
+[2024-08-13 00:33:40] [ INFO ] [testOdontologoEnMemoria:34] [Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}, Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}, Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}]
+[2024-08-13 00:33:54] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:39:30] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:40:22] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:40:50] [ INFO ] [DaoEnMemoria:16] Odontologo guardado en memoria: Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}
+[2024-08-13 00:40:50] [ INFO ] [DaoEnMemoria:16] Odontologo guardado en memoria: Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}
+[2024-08-13 00:40:50] [ INFO ] [DaoEnMemoria:16] Odontologo guardado en memoria: Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}
+[2024-08-13 00:40:50] [ INFO ] [DaoEnMemoria:22] Odontologos encontrados en memoria: [Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}, Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}, Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}]
+[2024-08-13 00:40:50] [ INFO ] [DaoEnMemoria:22] Odontologos encontrados en memoria: [Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}, Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}, Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}]
+[2024-08-13 00:40:51] [ INFO ] [testOdontologoEnMemoria:34] [Odontologo{id=1, numeroMatricula='123456', nombre='BOB', apellido='ESPONKA'}, Odontologo{id=2, numeroMatricula='123457', nombre='PEDRO', apellido='MALO'}, Odontologo{id=3, numeroMatricula='1234568', nombre='PEPE', apellido='ZAPATO'}]
+[2024-08-13 00:43:31] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:43:51] [ ERROR] [testOdontologo:33] org.h2.Driver
+[2024-08-13 00:44:33] [ ERROR] [testOdontologo:33] org.h2.Driver
